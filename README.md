@@ -36,8 +36,8 @@ We are using the `fetch` API to retrieve news from the NDTV RSS feed. This is a 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/news-app.git
-   cd news-app
+   git clone https://github.com/yourusername/NewsApp.git
+   cd NewsApp
    ```
 
 2. Open the `index.html` file in any browser to view the News App.
